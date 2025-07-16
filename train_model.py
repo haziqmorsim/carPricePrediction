@@ -6,7 +6,7 @@ from sklearn.metrics import mean_absolute_error
 import joblib
 
 # Load dataset
-data = pd.read_csv('data/used_cars.csv')
+data = pd.read_csv('used_cars.csv')
 
 # Drop missing values
 data.dropna(inplace=True)
@@ -33,4 +33,4 @@ mae = mean_absolute_error(y_test, predictions)
 print(f"Mean Absolute Error: {mae}")
 
 # Save model
-joblib.dump(model, 'models/car_price_model.pkl')
+joblib.dump(model, 'model.pkl')
