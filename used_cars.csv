@@ -1,151 +1,201 @@
-Make,Model,Year,Transmission,Fuel_Type,Mileage,Engine_Size,Price
-Perodua,Alza,2018,Manual,Petrol,84778,3.0,48044
-Toyota,Hilux,2021,Manual,Petrol,55815,2.2,60837
-Nissan,Almera,2016,Manual,Petrol,48134,2.2,37373
-Toyota,Camry,2020,Manual,Petrol,83958,2.3,51208
-Proton,Persona,2021,Manual,Petrol,11842,2.8,75631
-Toyota,Vios,2020,Automatic,Petrol,78420,2.9,61316
-Proton,Saga,2016,Manual,Diesel,59302,1.3,31139
-Proton,Persona,2017,Automatic,Diesel,67375,2.6,50525
-Honda,CR-V,2017,Manual,Diesel,24029,1.6,46194
-Toyota,Vios,2021,Automatic,Petrol,20181,1.7,65963
-Nissan,Almera,2015,Automatic,Diesel,42994,1.7,36401
-Toyota,Hilux,2019,Automatic,Diesel,84076,1.8,49184
-Honda,City,2015,Automatic,Diesel,45140,1.1,29972
-Perodua,Bezza,2017,Manual,Petrol,79639,2.4,38072
-Perodua,Bezza,2017,Automatic,Petrol,15056,1.8,47988
-Proton,Saga,2020,Automatic,Petrol,48031,1.3,51393
-Nissan,Teana,2022,Manual,Diesel,80672,2.7,70865
-Nissan,X-Trail,2017,Manual,Diesel,69772,1.9,40045
-Honda,CR-V,2017,Manual,Petrol,37275,2.6,48545
-Honda,Civic,2021,Automatic,Petrol,12456,2.0,70508
-Perodua,Myvi,2017,Automatic,Petrol,24326,2.3,51134
-Toyota,Vios,2018,Manual,Diesel,11697,1.5,52660
-Nissan,X-Trail,2018,Manual,Petrol,98283,2.0,35343
-Perodua,Alza,2018,Automatic,Petrol,16667,1.2,46666
-Nissan,X-Trail,2021,Automatic,Petrol,10555,1.4,64889
-Toyota,Hilux,2017,Manual,Petrol,38209,1.5,37358
-Proton,Saga,2019,Automatic,Diesel,91919,2.7,56616
-Honda,CR-V,2018,Automatic,Diesel,92254,1.5,39549
-Proton,X70,2019,Manual,Diesel,78861,1.5,44227
-Honda,City,2018,Automatic,Diesel,60493,1.8,48901
-Honda,Civic,2016,Automatic,Petrol,31529,2.9,50694
-Proton,X70,2016,Manual,Petrol,74850,1.9,29030
-Nissan,Teana,2017,Manual,Diesel,93206,1.4,30358
-Nissan,X-Trail,2015,Automatic,Petrol,85911,1.1,20000
-Proton,Persona,2020,Manual,Petrol,17744,2.2,63451
-Proton,Saga,2016,Manual,Diesel,40922,2.0,41815
-Nissan,Almera,2018,Automatic,Diesel,67046,1.4,43590
-Honda,City,2020,Automatic,Diesel,67895,1.6,55421
-Toyota,Vios,2018,Automatic,Petrol,20071,1.5,48985
-Perodua,Bezza,2019,Manual,Petrol,41791,1.8,49641
-Toyota,Camry,2018,Automatic,Diesel,73298,1.8,46340
-Honda,CR-V,2016,Manual,Petrol,18870,2.8,49226
-Nissan,Teana,2017,Automatic,Diesel,41650,2.9,58670
-Nissan,Almera,2017,Manual,Petrol,32056,2.5,48588
-Toyota,Camry,2015,Automatic,Petrol,69202,2.2,31159
-Nissan,Almera,2021,Manual,Petrol,27913,2.6,70417
-Perodua,Bezza,2018,Manual,Petrol,14006,1.8,50198
-Nissan,Almera,2022,Manual,Diesel,64584,2.9,76083
-Proton,Persona,2017,Automatic,Diesel,13888,1.5,50222
-Toyota,Vios,2016,Manual,Petrol,30415,2.0,38917
-Honda,Civic,2019,Automatic,Diesel,86223,3.0,60755
-Honda,CR-V,2022,Manual,Petrol,60324,2.4,66935
-Perodua,Bezza,2018,Manual,Diesel,35162,2.2,54967
-Honda,Civic,2016,Automatic,Diesel,62490,1.1,31502
-Nissan,Almera,2019,Automatic,Diesel,79520,2.4,56096
-Honda,City,2019,Manual,Diesel,22249,2.8,68550
-Nissan,Almera,2017,Manual,Petrol,11249,2.1,48750
-Honda,CR-V,2021,Manual,Diesel,80543,1.0,48891
-Perodua,Bezza,2022,Manual,Diesel,36394,2.0,72721
-Honda,Civic,2021,Manual,Petrol,20712,2.0,65857
-Honda,CR-V,2015,Automatic,Petrol,66470,2.1,30706
-Perodua,Bezza,2022,Manual,Petrol,68984,2.8,69203
-Honda,CR-V,2018,Manual,Petrol,21942,1.6,46611
-Toyota,Hilux,2016,Automatic,Diesel,11461,1.8,48707
-Nissan,Teana,2016,Automatic,Petrol,57000,1.6,32600
-Honda,Civic,2018,Automatic,Diesel,70159,1.6,44968
-Toyota,Camry,2022,Manual,Petrol,26715,2.1,70657
-Perodua,Alza,2018,Automatic,Petrol,37855,2.9,59429
-Proton,Persona,2021,Manual,Petrol,19307,2.5,71138
-Proton,X70,2018,Manual,Petrol,79222,2.5,44155
-Perodua,Bezza,2019,Automatic,Petrol,64832,2.9,59033
-Nissan,X-Trail,2016,Automatic,Diesel,82830,2.0,36434
-Nissan,Teana,2017,Automatic,Diesel,49410,2.4,52118
-Perodua,Myvi,2015,Automatic,Diesel,20954,2.5,48809
-Nissan,Teana,2017,Automatic,Petrol,53124,1.5,37375
-Honda,CR-V,2017,Manual,Diesel,42231,2.4,50553
-Proton,X70,2018,Manual,Petrol,15018,1.2,43996
-Toyota,Vios,2019,Automatic,Petrol,78905,2.9,56219
-Perodua,Myvi,2020,Automatic,Petrol,76619,2.5,57676
-Honda,City,2021,Automatic,Petrol,10046,1.7,67990
-Toyota,Vios,2019,Automatic,Petrol,15034,2.7,66993
-Perodua,Myvi,2021,Automatic,Petrol,40221,2.8,72955
-Nissan,X-Trail,2015,Manual,Diesel,42672,2.4,40465
-Proton,X70,2018,Automatic,Petrol,80890,1.2,33822
-Toyota,Camry,2022,Manual,Petrol,95484,2.4,59903
-Nissan,Almera,2018,Manual,Diesel,98074,2.0,40385
-Toyota,Hilux,2015,Manual,Petrol,74138,2.6,31172
-Perodua,Bezza,2016,Manual,Diesel,37828,2.1,43434
-Perodua,Myvi,2021,Manual,Diesel,76779,2.5,64644
-Perodua,Myvi,2015,Manual,Petrol,18740,2.1,37252
-Perodua,Bezza,2015,Manual,Diesel,56874,2.4,37625
-Toyota,Vios,2016,Automatic,Petrol,89280,1.8,28144
-Perodua,Bezza,2017,Manual,Petrol,73256,1.2,27348
-Nissan,Teana,2021,Automatic,Petrol,20616,1.3,61876
-Proton,Persona,2018,Automatic,Petrol,82545,1.0,31491
-Toyota,Hilux,2019,Automatic,Diesel,73868,2.1,54226
-Proton,Saga,2020,Manual,Petrol,30822,1.3,51835
-Toyota,Hilux,2021,Automatic,Diesel,81487,1.5,56702
-Honda,Civic,2016,Manual,Petrol,54448,2.0,34110
-Toyota,Vios,2015,Manual,Petrol,87634,1.3,20000
-Proton,Persona,2019,Manual,Petrol,39766,1.8,50046
-Honda,Civic,2019,Automatic,Diesel,17030,1.8,62594
-Proton,X70,2015,Automatic,Petrol,85506,1.8,23898
-Honda,CR-V,2020,Automatic,Petrol,45964,1.2,50807
-Perodua,Alza,2020,Manual,Petrol,33450,1.9,57310
-Honda,Civic,2022,Automatic,Petrol,25394,1.4,66921
-Perodua,Myvi,2018,Automatic,Petrol,19578,1.6,50084
-Honda,CR-V,2016,Manual,Petrol,10380,1.9,41924
-Proton,Persona,2021,Manual,Petrol,65647,2.4,60870
-Nissan,Almera,2020,Manual,Petrol,29293,1.1,50141
-Honda,CR-V,2015,Manual,Diesel,61170,2.8,40766
-Proton,Saga,2016,Automatic,Petrol,80542,1.7,28891
-Perodua,Bezza,2016,Automatic,Petrol,52277,1.6,33544
-Proton,Persona,2021,Manual,Diesel,89557,1.9,56088
-Honda,Civic,2019,Manual,Diesel,36607,1.3,50678
-Toyota,Hilux,2022,Automatic,Petrol,72687,1.7,60462
-Proton,X70,2018,Manual,Petrol,82865,1.4,32427
-Perodua,Bezza,2019,Automatic,Petrol,81754,2.6,52649
-Perodua,Bezza,2016,Manual,Petrol,59711,2.6,39057
-Proton,X70,2018,Automatic,Petrol,72981,2.5,48403
-Honda,CR-V,2021,Manual,Petrol,44255,1.4,55149
-Toyota,Vios,2017,Automatic,Petrol,80031,1.9,35993
-Nissan,Teana,2022,Manual,Diesel,69572,1.8,64085
-Proton,X70,2021,Manual,Diesel,92814,1.8,54437
-Honda,Civic,2017,Automatic,Petrol,22666,2.3,51466
-Honda,City,2016,Manual,Petrol,70946,1.5,25810
-Perodua,Bezza,2021,Automatic,Diesel,60052,2.3,68989
-Nissan,X-Trail,2017,Automatic,Diesel,24568,1.3,46086
-Nissan,X-Trail,2022,Automatic,Diesel,42404,1.0,64519
-Perodua,Alza,2016,Automatic,Diesel,71956,1.2,30608
-Proton,Saga,2020,Automatic,Petrol,44820,1.1,50036
-Nissan,Almera,2020,Automatic,Petrol,19605,1.5,59079
-Nissan,X-Trail,2015,Manual,Petrol,80103,1.3,20000
-Honda,City,2017,Manual,Petrol,91991,2.6,37601
-Nissan,Teana,2015,Automatic,Petrol,10274,2.1,41945
-Perodua,Myvi,2020,Automatic,Diesel,35245,2.0,65951
-Nissan,X-Trail,2019,Automatic,Diesel,65174,2.3,57965
-Proton,Saga,2015,Manual,Diesel,58451,2.4,37309
-Toyota,Camry,2015,Automatic,Petrol,90820,1.1,20000
-Perodua,Myvi,2018,Automatic,Diesel,39779,1.4,49044
-Toyota,Vios,2016,Manual,Diesel,96067,1.4,24786
-Perodua,Myvi,2021,Manual,Petrol,71749,3.0,65650
-Toyota,Vios,2017,Manual,Diesel,31148,1.0,38770
-Proton,X70,2019,Automatic,Petrol,13783,2.6,66243
-Perodua,Bezza,2022,Manual,Petrol,24221,2.4,74155
-Nissan,Teana,2015,Manual,Diesel,99360,1.3,20000
-Nissan,Almera,2018,Manual,Diesel,35464,2.1,53907
-Toyota,Hilux,2021,Manual,Petrol,62279,2.2,59544
-Toyota,Camry,2015,Manual,Diesel,22567,1.5,35486
-Perodua,Bezza,2018,Automatic,Petrol,94897,2.3,42020
+Make,Model,Year,Mileage,Engine_CC,Num_Owners,Accident_History,Road_Tax_Status,Condition,Service_History_Score,Car_Age,Mileage_Per_Year,Engine_Performance,Price,Description
+Mazda,CX-5,2011,166867,1.5,1,Yes,Paid,Fair,0.68,14,11919.07,8.99,5000.0,"2011 Mazda CX-5 with a 1.5L engine. Driven for 166867 km, this fair condition car has had 1 owner(s), has accident history, and road tax is paid. Service history score: 0.68."
+Ford,Focus,2015,139879,1.6,3,Yes,Due,Poor,0.5,10,13987.9,11.44,5000.0,"2015 Ford Focus with a 1.6L engine. Driven for 139879 km, this poor condition car has had 3 owner(s), has accident history, and road tax is due. Service history score: 0.5."
+Perodua,Bezza,2011,157337,1.8,3,Yes,Paid,Excellent,0.58,14,11238.36,11.44,5000.0,"2011 Perodua Bezza with a 1.8L engine. Driven for 157337 km, this excellent condition car has had 3 owner(s), has accident history, and road tax is paid. Service history score: 0.58."
+Proton,Persona,2015,107498,1.8,1,No,Paid,Good,0.93,10,10749.8,16.74,10250.2,"2015 Proton Persona with a 1.8L engine. Driven for 107498 km, this good condition car has had 1 owner(s), no accident history, and road tax is paid. Service history score: 0.93."
+Toyota,Vios,2008,211335,1.3,2,No,Paid,Poor,0.55,17,12431.47,6.15,5000.0,"2008 Toyota Vios with a 1.3L engine. Driven for 211335 km, this poor condition car has had 2 owner(s), no accident history, and road tax is paid. Service history score: 0.55."
+Nissan,Almera,2006,79735,1.6,3,No,Paid,Fair,0.62,19,4196.58,20.07,5000.0,"2006 Nissan Almera with a 1.6L engine. Driven for 79735 km, this fair condition car has had 3 owner(s), no accident history, and road tax is paid. Service history score: 0.62."
+Proton,Persona,2010,219041,1.5,2,No,Paid,Poor,0.29,15,14602.73,6.85,5000.0,"2010 Proton Persona with a 1.5L engine. Driven for 219041 km, this poor condition car has had 2 owner(s), no accident history, and road tax is paid. Service history score: 0.29."
+Proton,Persona,2005,204779,1.8,3,No,Due,Poor,0.51,20,10238.95,8.79,5000.0,"2005 Proton Persona with a 1.8L engine. Driven for 204779 km, this poor condition car has had 3 owner(s), no accident history, and road tax is due. Service history score: 0.51."
+BMW,320i,2016,244088,1.3,2,No,Due,Poor,0.35,9,27120.89,5.33,5000.0,"2016 BMW 320i with a 1.3L engine. Driven for 244088 km, this poor condition car has had 2 owner(s), no accident history, and road tax is due. Service history score: 0.35."
+Proton,Saga,2014,169503,1.3,3,No,Due,Good,0.65,11,15409.36,7.67,5000.0,"2014 Proton Saga with a 1.3L engine. Driven for 169503 km, this good condition car has had 3 owner(s), no accident history, and road tax is due. Service history score: 0.65."
+Volkswagen,Polo,2020,210222,1.6,3,No,Due,Poor,0.43,5,42044.4,7.61,5000.0,"2020 Volkswagen Polo with a 1.6L engine. Driven for 210222 km, this poor condition car has had 3 owner(s), no accident history, and road tax is due. Service history score: 0.43."
+Proton,Persona,2019,186845,1.8,1,Yes,Due,Poor,0.3,6,31140.83,9.63,5000.0,"2019 Proton Persona with a 1.8L engine. Driven for 186845 km, this poor condition car has had 1 owner(s), has accident history, and road tax is due. Service history score: 0.3."
+Toyota,Vios,2007,89092,2.0,2,No,Due,Excellent,0.8,18,4949.56,22.45,9690.8,"2007 Toyota Vios with a 2.0L engine. Driven for 89092 km, this excellent condition car has had 2 owner(s), no accident history, and road tax is due. Service history score: 0.8."
+Kia,Cerato,2013,231110,1.3,3,Yes,Due,Fair,0.21,12,19259.17,5.63,5000.0,"2013 Kia Cerato with a 1.3L engine. Driven for 231110 km, this fair condition car has had 3 owner(s), has accident history, and road tax is due. Service history score: 0.21."
+Mazda,CX-5,2018,225041,1.5,1,Yes,Paid,Good,0.69,7,32148.71,6.67,5000.0,"2018 Mazda CX-5 with a 1.5L engine. Driven for 225041 km, this good condition car has had 1 owner(s), has accident history, and road tax is paid. Service history score: 0.69."
+Toyota,Vios,2006,144243,1.8,2,No,Due,Fair,0.32,19,7591.74,12.48,5000.0,"2006 Toyota Vios with a 1.8L engine. Driven for 144243 km, this fair condition car has had 2 owner(s), no accident history, and road tax is due. Service history score: 0.32."
+Nissan,Almera,2011,68555,1.8,1,No,Paid,Poor,0.45,14,4896.79,26.26,7944.5,"2011 Nissan Almera with a 1.8L engine. Driven for 68555 km, this poor condition car has had 1 owner(s), no accident history, and road tax is paid. Service history score: 0.45."
+Nissan,Almera,2019,126530,2.0,2,No,Paid,Poor,0.65,6,21088.33,15.81,9547.0,"2019 Nissan Almera with a 2.0L engine. Driven for 126530 km, this poor condition car has had 2 owner(s), no accident history, and road tax is paid. Service history score: 0.65."
+Toyota,Camry,2008,218193,2.0,1,No,Paid,Fair,0.53,17,12834.88,9.17,5000.0,"2008 Toyota Camry with a 2.0L engine. Driven for 218193 km, this fair condition car has had 1 owner(s), no accident history, and road tax is paid. Service history score: 0.53."
+Perodua,Myvi,2006,217629,1.6,1,Yes,Due,Fair,0.46,19,11454.16,7.35,5000.0,"2006 Perodua Myvi with a 1.6L engine. Driven for 217629 km, this fair condition car has had 1 owner(s), has accident history, and road tax is due. Service history score: 0.46."
+Proton,Persona,2014,72995,1.8,2,Yes,Due,Poor,0.29,11,6635.91,24.66,7900.5,"2014 Proton Persona with a 1.8L engine. Driven for 72995 km, this poor condition car has had 2 owner(s), has accident history, and road tax is due. Service history score: 0.29."
+Ford,Focus,2022,223481,1.8,1,No,Due,Poor,0.42,3,74493.67,8.05,5000.0,"2022 Ford Focus with a 1.8L engine. Driven for 223481 km, this poor condition car has had 1 owner(s), no accident history, and road tax is due. Service history score: 0.42."
+Toyota,Camry,2014,243165,1.6,1,Yes,Paid,Fair,0.66,11,22105.91,6.58,5000.0,"2014 Toyota Camry with a 1.6L engine. Driven for 243165 km, this fair condition car has had 1 owner(s), has accident history, and road tax is paid. Service history score: 0.66."
+Hyundai,Elantra,2020,31534,2.0,2,No,Paid,Fair,0.24,5,6306.8,63.42,22846.6,"2020 Hyundai Elantra with a 2.0L engine. Driven for 31534 km, this fair condition car has had 2 owner(s), no accident history, and road tax is paid. Service history score: 0.24."
+Mercedes,C200,2012,240884,1.3,1,No,Paid,Fair,0.39,13,18529.54,5.4,5000.0,"2012 Mercedes C200 with a 1.3L engine. Driven for 240884 km, this fair condition car has had 1 owner(s), no accident history, and road tax is paid. Service history score: 0.39."
+Honda,Civic,2022,102798,1.5,3,Yes,Due,Poor,0.61,3,34266.0,14.59,9820.2,"2022 Honda Civic with a 1.5L engine. Driven for 102798 km, this poor condition car has had 3 owner(s), has accident history, and road tax is due. Service history score: 0.61."
+Nissan,Almera,2017,58044,1.5,3,No,Paid,Excellent,0.9,8,7255.5,25.84,18295.6,"2017 Nissan Almera with a 1.5L engine. Driven for 58044 km, this excellent condition car has had 3 owner(s), no accident history, and road tax is paid. Service history score: 0.9."
+Perodua,Myvi,2005,68984,1.8,1,Yes,Paid,Poor,0.69,20,3449.2,26.09,5000.0,"2005 Perodua Myvi with a 1.8L engine. Driven for 68984 km, this poor condition car has had 1 owner(s), has accident history, and road tax is paid. Service history score: 0.69."
+Kia,Cerato,2005,218635,1.5,3,No,Paid,Fair,0.35,20,10931.75,6.86,5000.0,"2005 Kia Cerato with a 1.5L engine. Driven for 218635 km, this fair condition car has had 3 owner(s), no accident history, and road tax is paid. Service history score: 0.35."
+Honda,City,2015,238610,1.8,3,Yes,Paid,Good,0.85,10,23861.0,7.54,5000.0,"2015 Honda City with a 1.8L engine. Driven for 238610 km, this good condition car has had 3 owner(s), has accident history, and road tax is paid. Service history score: 0.85."
+Nissan,Almera,2007,81858,1.3,2,No,Paid,Good,0.89,18,4547.67,15.88,5000.0,"2007 Nissan Almera with a 1.3L engine. Driven for 81858 km, this good condition car has had 2 owner(s), no accident history, and road tax is paid. Service history score: 0.89."
+Volkswagen,Polo,2009,154633,1.6,1,No,Due,Fair,0.38,16,9664.56,10.35,5000.0,"2009 Volkswagen Polo with a 1.6L engine. Driven for 154633 km, this fair condition car has had 1 owner(s), no accident history, and road tax is due. Service history score: 0.38."
+Hyundai,Elantra,2013,203323,1.3,2,Yes,Due,Excellent,0.93,12,16943.58,6.39,5000.0,"2013 Hyundai Elantra with a 1.3L engine. Driven for 203323 km, this excellent condition car has had 2 owner(s), has accident history, and road tax is due. Service history score: 0.93."
+Hyundai,Elantra,2012,229675,1.8,1,Yes,Paid,Excellent,0.67,13,17667.31,7.84,5000.0,"2012 Hyundai Elantra with a 1.8L engine. Driven for 229675 km, this excellent condition car has had 1 owner(s), has accident history, and road tax is paid. Service history score: 0.67."
+Honda,City,2020,147478,1.3,1,Yes,Due,Good,0.66,5,29495.6,8.81,5752.2,"2020 Honda City with a 1.3L engine. Driven for 147478 km, this good condition car has had 1 owner(s), has accident history, and road tax is due. Service history score: 0.66."
+Nissan,Almera,2009,247426,1.8,1,Yes,Due,Fair,0.5,16,15464.12,7.27,5000.0,"2009 Nissan Almera with a 1.8L engine. Driven for 247426 km, this fair condition car has had 1 owner(s), has accident history, and road tax is due. Service history score: 0.5."
+Proton,Saga,2007,221664,1.3,2,No,Paid,Fair,0.39,18,12314.67,5.86,5000.0,"2007 Proton Saga with a 1.3L engine. Driven for 221664 km, this fair condition car has had 2 owner(s), no accident history, and road tax is paid. Service history score: 0.39."
+Ford,Focus,2019,230381,1.3,3,Yes,Paid,Good,0.92,6,38396.83,5.64,5000.0,"2019 Ford Focus with a 1.3L engine. Driven for 230381 km, this good condition car has had 3 owner(s), has accident history, and road tax is paid. Service history score: 0.92."
+Mercedes,C200,2009,118806,2.0,1,No,Paid,Good,0.89,16,7425.38,16.83,5319.4,"2009 Mercedes C200 with a 2.0L engine. Driven for 118806 km, this good condition car has had 1 owner(s), no accident history, and road tax is paid. Service history score: 0.89."
+Toyota,Camry,2011,141626,1.5,1,Yes,Paid,Fair,0.46,14,10116.14,10.59,5000.0,"2011 Toyota Camry with a 1.5L engine. Driven for 141626 km, this fair condition car has had 1 owner(s), has accident history, and road tax is paid. Service history score: 0.46."
+Mazda,CX-5,2019,238969,2.0,2,No,Due,Poor,0.21,6,39828.17,8.37,5000.0,"2019 Mazda CX-5 with a 2.0L engine. Driven for 238969 km, this poor condition car has had 2 owner(s), no accident history, and road tax is due. Service history score: 0.21."
+Mazda,CX-5,2017,70015,2.0,2,Yes,Paid,Excellent,0.82,8,8751.88,28.57,17598.5,"2017 Mazda CX-5 with a 2.0L engine. Driven for 70015 km, this excellent condition car has had 2 owner(s), has accident history, and road tax is paid. Service history score: 0.82."
+Toyota,Camry,2008,169213,2.0,1,Yes,Due,Poor,0.27,17,9953.71,11.82,5000.0,"2008 Toyota Camry with a 2.0L engine. Driven for 169213 km, this poor condition car has had 1 owner(s), has accident history, and road tax is due. Service history score: 0.27."
+Perodua,Bezza,2011,207116,1.8,1,Yes,Paid,Good,0.77,14,14794.0,8.69,5000.0,"2011 Perodua Bezza with a 1.8L engine. Driven for 207116 km, this good condition car has had 1 owner(s), has accident history, and road tax is paid. Service history score: 0.77."
+Toyota,Vios,2008,206892,1.8,2,Yes,Due,Fair,0.24,17,12170.12,8.7,5000.0,"2008 Toyota Vios with a 1.8L engine. Driven for 206892 km, this fair condition car has had 2 owner(s), has accident history, and road tax is due. Service history score: 0.24."
+BMW,320i,2006,129225,2.0,1,Yes,Paid,Fair,0.6,19,6801.32,15.48,5000.0,"2006 BMW 320i with a 2.0L engine. Driven for 129225 km, this fair condition car has had 1 owner(s), has accident history, and road tax is paid. Service history score: 0.6."
+Hyundai,Elantra,2010,246075,1.3,2,No,Paid,Fair,0.6,15,16405.0,5.28,5000.0,"2010 Hyundai Elantra with a 1.3L engine. Driven for 246075 km, this fair condition car has had 2 owner(s), no accident history, and road tax is paid. Service history score: 0.6."
+Nissan,Almera,2016,45939,1.3,2,Yes,Paid,Fair,0.65,9,5104.33,28.3,12706.1,"2016 Nissan Almera with a 1.3L engine. Driven for 45939 km, this fair condition car has had 2 owner(s), has accident history, and road tax is paid. Service history score: 0.65."
+Volkswagen,Polo,2015,38047,1.8,2,Yes,Paid,Fair,0.6,10,3804.7,47.31,15195.3,"2015 Volkswagen Polo with a 1.8L engine. Driven for 38047 km, this fair condition car has had 2 owner(s), has accident history, and road tax is paid. Service history score: 0.6."
+Honda,City,2011,145117,1.3,2,Yes,Paid,Poor,0.26,14,10365.5,8.96,5000.0,"2011 Honda City with a 1.3L engine. Driven for 145117 km, this poor condition car has had 2 owner(s), has accident history, and road tax is paid. Service history score: 0.26."
+Nissan,Almera,2017,75016,1.3,3,Yes,Paid,Excellent,0.65,8,9377.0,17.33,13598.4,"2017 Nissan Almera with a 1.3L engine. Driven for 75016 km, this excellent condition car has had 3 owner(s), has accident history, and road tax is paid. Service history score: 0.65."
+Perodua,Myvi,2010,41959,1.8,1,No,Due,Fair,0.47,15,2797.27,42.9,12804.1,"2010 Perodua Myvi with a 1.8L engine. Driven for 41959 km, this fair condition car has had 1 owner(s), no accident history, and road tax is due. Service history score: 0.47."
+Honda,Civic,2009,248576,1.8,1,No,Paid,Excellent,0.56,16,15536.0,7.24,5000.0,"2009 Honda Civic with a 1.8L engine. Driven for 248576 km, this excellent condition car has had 1 owner(s), no accident history, and road tax is paid. Service history score: 0.56."
+Toyota,Vios,2016,217271,1.3,2,Yes,Paid,Excellent,0.97,9,24141.22,5.98,5000.0,"2016 Toyota Vios with a 1.3L engine. Driven for 217271 km, this excellent condition car has had 2 owner(s), has accident history, and road tax is paid. Service history score: 0.97."
+Ford,Focus,2013,138451,1.6,1,No,Due,Fair,0.38,12,11537.58,11.56,5000.0,"2013 Ford Focus with a 1.6L engine. Driven for 138451 km, this fair condition car has had 1 owner(s), no accident history, and road tax is due. Service history score: 0.38."
+Perodua,Bezza,2021,59353,1.6,3,No,Paid,Fair,0.68,4,14838.25,26.96,18864.7,"2021 Perodua Bezza with a 1.6L engine. Driven for 59353 km, this fair condition car has had 3 owner(s), no accident history, and road tax is paid. Service history score: 0.68."
+Mazda,CX-5,2011,240546,1.5,3,Yes,Due,Excellent,0.65,14,17181.86,6.24,5000.0,"2011 Mazda CX-5 with a 1.5L engine. Driven for 240546 km, this excellent condition car has had 3 owner(s), has accident history, and road tax is due. Service history score: 0.65."
+Honda,City,2021,113264,2.0,3,Yes,Paid,Good,0.63,4,28316.0,17.66,13473.6,"2021 Honda City with a 2.0L engine. Driven for 113264 km, this good condition car has had 3 owner(s), has accident history, and road tax is paid. Service history score: 0.63."
+Perodua,Bezza,2006,132859,1.3,3,No,Paid,Excellent,0.53,19,6992.58,9.78,5000.0,"2006 Perodua Bezza with a 1.3L engine. Driven for 132859 km, this excellent condition car has had 3 owner(s), no accident history, and road tax is paid. Service history score: 0.53."
+Toyota,Camry,2009,189695,1.8,1,No,Due,Good,0.95,16,11855.94,9.49,5000.0,"2009 Toyota Camry with a 1.8L engine. Driven for 189695 km, this good condition car has had 1 owner(s), no accident history, and road tax is due. Service history score: 0.95."
+Toyota,Camry,2006,238164,1.3,1,Yes,Paid,Poor,0.44,19,12534.95,5.46,5000.0,"2006 Toyota Camry with a 1.3L engine. Driven for 238164 km, this poor condition car has had 1 owner(s), has accident history, and road tax is paid. Service history score: 0.44."
+Nissan,Almera,2010,238527,2.0,3,Yes,Paid,Good,0.8,15,15901.8,8.38,5000.0,"2010 Nissan Almera with a 2.0L engine. Driven for 238527 km, this good condition car has had 3 owner(s), has accident history, and road tax is paid. Service history score: 0.8."
+Honda,City,2015,129751,1.6,3,No,Paid,Fair,0.32,10,12975.1,12.33,7024.9,"2015 Honda City with a 1.6L engine. Driven for 129751 km, this fair condition car has had 3 owner(s), no accident history, and road tax is paid. Service history score: 0.32."
+Volkswagen,Polo,2010,218935,1.3,1,No,Paid,Poor,0.44,15,14595.67,5.94,5000.0,"2010 Volkswagen Polo with a 1.3L engine. Driven for 218935 km, this poor condition car has had 1 owner(s), no accident history, and road tax is paid. Service history score: 0.44."
+Proton,Saga,2006,216805,1.5,1,No,Due,Poor,0.4,19,11410.79,6.92,5000.0,"2006 Proton Saga with a 1.5L engine. Driven for 216805 km, this poor condition car has had 1 owner(s), no accident history, and road tax is due. Service history score: 0.4."
+Honda,Civic,2020,42671,1.6,3,Yes,Due,Poor,0.62,5,8534.2,37.5,14732.9,"2020 Honda Civic with a 1.6L engine. Driven for 42671 km, this poor condition car has had 3 owner(s), has accident history, and road tax is due. Service history score: 0.62."
+Toyota,Camry,2010,71663,1.3,3,No,Paid,Fair,0.22,15,4777.53,18.14,7333.7,"2010 Toyota Camry with a 1.3L engine. Driven for 71663 km, this fair condition car has had 3 owner(s), no accident history, and road tax is paid. Service history score: 0.22."
+Nissan,Almera,2008,223154,1.8,2,No,Paid,Poor,0.56,17,13126.71,8.07,5000.0,"2008 Nissan Almera with a 1.8L engine. Driven for 223154 km, this poor condition car has had 2 owner(s), no accident history, and road tax is paid. Service history score: 0.56."
+Honda,Civic,2011,234835,1.6,1,Yes,Due,Poor,0.67,14,16773.93,6.81,5000.0,"2011 Honda Civic with a 1.6L engine. Driven for 234835 km, this poor condition car has had 1 owner(s), has accident history, and road tax is due. Service history score: 0.67."
+Ford,Focus,2012,91295,1.6,3,Yes,Paid,Excellent,0.76,13,7022.69,17.53,9470.5,"2012 Ford Focus with a 1.6L engine. Driven for 91295 km, this excellent condition car has had 3 owner(s), has accident history, and road tax is paid. Service history score: 0.76."
+Hyundai,Elantra,2012,57504,1.6,3,No,Due,Excellent,0.84,13,4423.38,27.82,14849.6,"2012 Hyundai Elantra with a 1.6L engine. Driven for 57504 km, this excellent condition car has had 3 owner(s), no accident history, and road tax is due. Service history score: 0.84."
+Hyundai,Elantra,2022,67254,1.5,1,No,Due,Fair,0.47,3,22418.0,22.3,18374.6,"2022 Hyundai Elantra with a 1.5L engine. Driven for 67254 km, this fair condition car has had 1 owner(s), no accident history, and road tax is due. Service history score: 0.47."
+Proton,Persona,2014,50306,2.0,3,Yes,Due,Poor,0.31,11,4573.27,39.76,11169.4,"2014 Proton Persona with a 2.0L engine. Driven for 50306 km, this poor condition car has had 3 owner(s), has accident history, and road tax is due. Service history score: 0.31."
+Kia,Cerato,2020,116601,1.8,1,No,Due,Good,0.99,5,23320.2,15.44,13339.9,"2020 Kia Cerato with a 1.8L engine. Driven for 116601 km, this good condition car has had 1 owner(s), no accident history, and road tax is due. Service history score: 0.99."
+BMW,320i,2021,153121,1.8,3,No,Paid,Excellent,1.0,4,38280.25,11.76,13487.9,"2021 BMW 320i with a 1.8L engine. Driven for 153121 km, this excellent condition car has had 3 owner(s), no accident history, and road tax is paid. Service history score: 1.0."
+Hyundai,Elantra,2016,40932,1.3,3,No,Paid,Excellent,0.95,9,4548.0,31.76,18206.8,"2016 Hyundai Elantra with a 1.3L engine. Driven for 40932 km, this excellent condition car has had 3 owner(s), no accident history, and road tax is paid. Service history score: 0.95."
+Ford,Focus,2013,27400,1.5,2,No,Due,Excellent,0.67,12,2283.33,54.74,18160.0,"2013 Ford Focus with a 1.5L engine. Driven for 27400 km, this excellent condition car has had 2 owner(s), no accident history, and road tax is due. Service history score: 0.67."
+Mercedes,C200,2020,202479,1.8,3,No,Paid,Good,0.95,5,40495.8,8.89,5000.0,"2020 Mercedes C200 with a 1.8L engine. Driven for 202479 km, this good condition car has had 3 owner(s), no accident history, and road tax is paid. Service history score: 0.95."
+Ford,Focus,2005,32183,1.6,3,No,Paid,Excellent,0.93,20,1609.15,49.72,11781.7,"2005 Ford Focus with a 1.6L engine. Driven for 32183 km, this excellent condition car has had 3 owner(s), no accident history, and road tax is paid. Service history score: 0.93."
+Volkswagen,Polo,2021,52711,1.6,2,Yes,Due,Poor,0.59,4,13177.75,30.35,14528.9,"2021 Volkswagen Polo with a 1.6L engine. Driven for 52711 km, this poor condition car has had 2 owner(s), has accident history, and road tax is due. Service history score: 0.59."
+Mazda,CX-5,2012,212339,1.6,2,Yes,Due,Poor,0.49,13,16333.77,7.54,5000.0,"2012 Mazda CX-5 with a 1.6L engine. Driven for 212339 km, this poor condition car has had 2 owner(s), has accident history, and road tax is due. Service history score: 0.49."
+Kia,Cerato,2020,153629,2.0,3,No,Paid,Good,0.97,5,30725.8,13.02,10637.1,"2020 Kia Cerato with a 2.0L engine. Driven for 153629 km, this good condition car has had 3 owner(s), no accident history, and road tax is paid. Service history score: 0.97."
+Perodua,Bezza,2022,198047,2.0,2,Yes,Paid,Excellent,0.65,3,66015.67,10.1,8795.3,"2022 Perodua Bezza with a 2.0L engine. Driven for 198047 km, this excellent condition car has had 2 owner(s), has accident history, and road tax is paid. Service history score: 0.65."
+Honda,Civic,2006,22869,1.8,2,No,Paid,Poor,0.42,19,1203.63,78.71,8513.1,"2006 Honda Civic with a 1.8L engine. Driven for 22869 km, this poor condition car has had 2 owner(s), no accident history, and road tax is paid. Service history score: 0.42."
+Proton,Persona,2013,114179,1.8,2,Yes,Due,Excellent,0.86,12,9514.92,15.76,8982.1,"2013 Proton Persona with a 1.8L engine. Driven for 114179 km, this excellent condition car has had 2 owner(s), has accident history, and road tax is due. Service history score: 0.86."
+Hyundai,Elantra,2005,111412,1.5,2,No,Due,Fair,0.29,20,5570.6,13.46,5000.0,"2005 Hyundai Elantra with a 1.5L engine. Driven for 111412 km, this fair condition car has had 2 owner(s), no accident history, and road tax is due. Service history score: 0.29."
+Hyundai,Elantra,2012,197286,1.5,3,Yes,Paid,Good,0.86,13,15175.85,7.6,5000.0,"2012 Hyundai Elantra with a 1.5L engine. Driven for 197286 km, this good condition car has had 3 owner(s), has accident history, and road tax is paid. Service history score: 0.86."
+Volkswagen,Polo,2005,221163,1.3,2,No,Due,Poor,0.45,20,11058.15,5.88,5000.0,"2005 Volkswagen Polo with a 1.3L engine. Driven for 221163 km, this poor condition car has had 2 owner(s), no accident history, and road tax is due. Service history score: 0.45."
+Honda,Civic,2018,136381,1.5,2,No,Due,Excellent,0.99,7,19483.0,11.0,11261.9,"2018 Honda Civic with a 1.5L engine. Driven for 136381 km, this excellent condition car has had 2 owner(s), no accident history, and road tax is due. Service history score: 0.99."
+Ford,Focus,2017,225362,1.5,3,No,Due,Good,0.95,8,28170.25,6.66,5000.0,"2017 Ford Focus with a 1.5L engine. Driven for 225362 km, this good condition car has had 3 owner(s), no accident history, and road tax is due. Service history score: 0.95."
+Nissan,Almera,2006,199476,1.8,3,Yes,Paid,Good,0.75,19,10498.74,9.02,5000.0,"2006 Nissan Almera with a 1.8L engine. Driven for 199476 km, this good condition car has had 3 owner(s), has accident history, and road tax is paid. Service history score: 0.75."
+Toyota,Vios,2019,127455,1.6,2,No,Due,Excellent,0.93,6,21242.5,12.55,13454.5,"2019 Toyota Vios with a 1.6L engine. Driven for 127455 km, this excellent condition car has had 2 owner(s), no accident history, and road tax is due. Service history score: 0.93."
+Proton,Saga,2020,65714,1.6,2,No,Due,Fair,0.49,5,13142.8,24.35,17428.6,"2020 Proton Saga with a 1.6L engine. Driven for 65714 km, this fair condition car has had 2 owner(s), no accident history, and road tax is due. Service history score: 0.49."
+Toyota,Vios,2021,125983,1.5,1,No,Due,Poor,0.29,4,31495.75,11.91,8701.7,"2021 Toyota Vios with a 1.5L engine. Driven for 125983 km, this poor condition car has had 1 owner(s), no accident history, and road tax is due. Service history score: 0.29."
+Hyundai,Elantra,2018,56212,1.6,2,Yes,Paid,Excellent,0.94,7,8030.29,28.46,17778.8,"2018 Hyundai Elantra with a 1.6L engine. Driven for 56212 km, this excellent condition car has had 2 owner(s), has accident history, and road tax is paid. Service history score: 0.94."
+Hyundai,Elantra,2013,53828,1.8,2,No,Due,Fair,0.66,12,4485.67,33.44,14017.2,"2013 Hyundai Elantra with a 1.8L engine. Driven for 53828 km, this fair condition car has had 2 owner(s), no accident history, and road tax is due. Service history score: 0.66."
+Ford,Focus,2021,151373,2.0,1,No,Due,Excellent,0.98,4,37843.25,13.21,14662.7,"2021 Ford Focus with a 2.0L engine. Driven for 151373 km, this excellent condition car has had 1 owner(s), no accident history, and road tax is due. Service history score: 0.98."
+Perodua,Bezza,2007,217307,1.3,2,Yes,Due,Excellent,0.93,18,12072.61,5.98,5000.0,"2007 Perodua Bezza with a 1.3L engine. Driven for 217307 km, this excellent condition car has had 2 owner(s), has accident history, and road tax is due. Service history score: 0.93."
+Hyundai,Elantra,2005,138015,1.3,3,Yes,Due,Excellent,0.74,20,6900.75,9.42,5000.0,"2005 Hyundai Elantra with a 1.3L engine. Driven for 138015 km, this excellent condition car has had 3 owner(s), has accident history, and road tax is due. Service history score: 0.74."
+Ford,Focus,2022,185656,1.5,1,No,Due,Good,0.7,3,61885.33,8.08,6534.4,"2022 Ford Focus with a 1.5L engine. Driven for 185656 km, this good condition car has had 1 owner(s), no accident history, and road tax is due. Service history score: 0.7."
+Perodua,Bezza,2007,202957,1.6,3,Yes,Paid,Good,0.55,18,11275.39,7.88,5000.0,"2007 Perodua Bezza with a 1.6L engine. Driven for 202957 km, this good condition car has had 3 owner(s), has accident history, and road tax is paid. Service history score: 0.55."
+Proton,Persona,2019,31093,1.5,1,No,Paid,Excellent,0.68,6,5182.17,48.24,22590.7,"2019 Proton Persona with a 1.5L engine. Driven for 31093 km, this excellent condition car has had 1 owner(s), no accident history, and road tax is paid. Service history score: 0.68."
+Volkswagen,Polo,2014,196089,1.8,1,Yes,Due,Fair,0.57,11,17826.27,9.18,5000.0,"2014 Volkswagen Polo with a 1.8L engine. Driven for 196089 km, this fair condition car has had 1 owner(s), has accident history, and road tax is due. Service history score: 0.57."
+Perodua,Myvi,2005,125864,1.3,3,Yes,Due,Good,0.85,20,6293.2,10.33,5000.0,"2005 Perodua Myvi with a 1.3L engine. Driven for 125864 km, this good condition car has had 3 owner(s), has accident history, and road tax is due. Service history score: 0.85."
+Honda,Civic,2020,125510,1.8,1,Yes,Paid,Excellent,0.65,5,25102.0,14.34,13449.0,"2020 Honda Civic with a 1.8L engine. Driven for 125510 km, this excellent condition car has had 1 owner(s), has accident history, and road tax is paid. Service history score: 0.65."
+Proton,Persona,2007,202065,1.8,1,No,Due,Poor,0.63,18,11225.83,8.91,5000.0,"2007 Proton Persona with a 1.8L engine. Driven for 202065 km, this poor condition car has had 1 owner(s), no accident history, and road tax is due. Service history score: 0.63."
+Proton,Saga,2017,239963,2.0,2,No,Paid,Poor,0.46,8,29995.38,8.33,5000.0,"2017 Proton Saga with a 2.0L engine. Driven for 239963 km, this poor condition car has had 2 owner(s), no accident history, and road tax is paid. Service history score: 0.46."
+Honda,Civic,2008,90316,1.5,2,No,Due,Fair,0.3,17,5312.71,16.61,5000.0,"2008 Honda Civic with a 1.5L engine. Driven for 90316 km, this fair condition car has had 2 owner(s), no accident history, and road tax is due. Service history score: 0.3."
+Proton,Saga,2012,26655,1.3,1,No,Paid,Excellent,0.7,13,2050.38,48.77,16434.5,"2012 Proton Saga with a 1.3L engine. Driven for 26655 km, this excellent condition car has had 1 owner(s), no accident history, and road tax is paid. Service history score: 0.7."
+Perodua,Bezza,2018,242155,1.3,2,Yes,Paid,Poor,0.64,7,34593.57,5.37,5000.0,"2018 Perodua Bezza with a 1.3L engine. Driven for 242155 km, this poor condition car has had 2 owner(s), has accident history, and road tax is paid. Service history score: 0.64."
+Toyota,Vios,2019,164475,2.0,1,Yes,Due,Poor,0.49,6,27412.5,12.16,5000.0,"2019 Toyota Vios with a 2.0L engine. Driven for 164475 km, this poor condition car has had 1 owner(s), has accident history, and road tax is due. Service history score: 0.49."
+Kia,Cerato,2021,90313,1.3,3,No,Paid,Good,0.91,4,22578.25,14.39,14268.7,"2021 Kia Cerato with a 1.3L engine. Driven for 90313 km, this good condition car has had 3 owner(s), no accident history, and road tax is paid. Service history score: 0.91."
+BMW,320i,2015,219099,1.8,3,Yes,Due,Poor,0.36,10,21909.9,8.22,5000.0,"2015 BMW 320i with a 1.8L engine. Driven for 219099 km, this poor condition car has had 3 owner(s), has accident history, and road tax is due. Service history score: 0.36."
+BMW,320i,2012,170580,2.0,1,No,Paid,Poor,0.34,13,13121.54,11.72,5000.0,"2012 BMW 320i with a 2.0L engine. Driven for 170580 km, this poor condition car has had 1 owner(s), no accident history, and road tax is paid. Service history score: 0.34."
+Proton,Saga,2016,134692,1.3,2,Yes,Due,Excellent,0.73,9,14965.78,9.65,6830.8,"2016 Proton Saga with a 1.3L engine. Driven for 134692 km, this excellent condition car has had 2 owner(s), has accident history, and road tax is due. Service history score: 0.73."
+Mazda,CX-5,2010,217484,1.3,1,Yes,Due,Good,0.6,15,14498.93,5.98,5000.0,"2010 Mazda CX-5 with a 1.3L engine. Driven for 217484 km, this good condition car has had 1 owner(s), has accident history, and road tax is due. Service history score: 0.6."
+Toyota,Vios,2019,231810,2.0,2,Yes,Due,Good,0.82,6,38635.0,8.63,5000.0,"2019 Toyota Vios with a 2.0L engine. Driven for 231810 km, this good condition car has had 2 owner(s), has accident history, and road tax is due. Service history score: 0.82."
+Proton,Persona,2020,114476,1.3,2,Yes,Due,Poor,0.68,5,22895.2,11.36,6052.4,"2020 Proton Persona with a 1.3L engine. Driven for 114476 km, this poor condition car has had 2 owner(s), has accident history, and road tax is due. Service history score: 0.68."
+Toyota,Vios,2014,103613,1.6,1,No,Paid,Excellent,0.52,11,9419.36,15.44,11838.7,"2014 Toyota Vios with a 1.6L engine. Driven for 103613 km, this excellent condition car has had 1 owner(s), no accident history, and road tax is paid. Service history score: 0.52."
+Volkswagen,Polo,2009,52217,2.0,1,No,Paid,Excellent,0.98,16,3263.56,38.3,14978.3,"2009 Volkswagen Polo with a 2.0L engine. Driven for 52217 km, this excellent condition car has had 1 owner(s), no accident history, and road tax is paid. Service history score: 0.98."
+Honda,Civic,2013,120235,1.6,3,No,Due,Poor,0.4,12,10019.58,13.31,5000.0,"2013 Honda Civic with a 1.6L engine. Driven for 120235 km, this poor condition car has had 3 owner(s), no accident history, and road tax is due. Service history score: 0.4."
+Ford,Focus,2005,150798,1.6,1,No,Due,Fair,0.33,20,7539.9,10.61,5000.0,"2005 Ford Focus with a 1.6L engine. Driven for 150798 km, this fair condition car has had 1 owner(s), no accident history, and road tax is due. Service history score: 0.33."
+Honda,City,2020,40056,2.0,1,No,Due,Good,0.83,5,8011.2,49.93,21994.4,"2020 Honda City with a 2.0L engine. Driven for 40056 km, this good condition car has had 1 owner(s), no accident history, and road tax is due. Service history score: 0.83."
+Proton,Saga,2005,154415,1.3,2,Yes,Due,Excellent,0.76,20,7720.75,8.42,5000.0,"2005 Proton Saga with a 1.3L engine. Driven for 154415 km, this excellent condition car has had 2 owner(s), has accident history, and road tax is due. Service history score: 0.76."
+Kia,Cerato,2009,133429,1.3,3,No,Due,Good,0.87,16,8339.31,9.74,5000.0,"2009 Kia Cerato with a 1.3L engine. Driven for 133429 km, this good condition car has had 3 owner(s), no accident history, and road tax is due. Service history score: 0.87."
+Mercedes,C200,2007,236139,1.5,2,No,Paid,Poor,0.48,18,13118.83,6.35,5000.0,"2007 Mercedes C200 with a 1.5L engine. Driven for 236139 km, this poor condition car has had 2 owner(s), no accident history, and road tax is paid. Service history score: 0.48."
+Honda,City,2009,223861,1.6,3,No,Due,Fair,0.21,16,13991.31,7.15,5000.0,"2009 Honda City with a 1.6L engine. Driven for 223861 km, this fair condition car has had 3 owner(s), no accident history, and road tax is due. Service history score: 0.21."
+Toyota,Vios,2018,29435,1.5,1,Yes,Due,Good,0.52,7,4205.0,50.96,16956.5,"2018 Toyota Vios with a 1.5L engine. Driven for 29435 km, this good condition car has had 1 owner(s), has accident history, and road tax is due. Service history score: 0.52."
+Kia,Cerato,2021,71293,1.3,3,No,Paid,Poor,0.63,4,17823.25,18.23,13170.7,"2021 Kia Cerato with a 1.3L engine. Driven for 71293 km, this poor condition car has had 3 owner(s), no accident history, and road tax is paid. Service history score: 0.63."
+BMW,320i,2009,246507,1.6,1,No,Due,Good,0.51,16,15406.69,6.49,5000.0,"2009 BMW 320i with a 1.6L engine. Driven for 246507 km, this good condition car has had 1 owner(s), no accident history, and road tax is due. Service history score: 0.51."
+Toyota,Camry,2020,141172,1.3,2,Yes,Due,Good,0.74,5,28234.4,9.21,6382.8,"2020 Toyota Camry with a 1.3L engine. Driven for 141172 km, this good condition car has had 2 owner(s), has accident history, and road tax is due. Service history score: 0.74."
+Toyota,Vios,2005,76573,1.6,1,No,Paid,Fair,0.42,20,3828.65,20.9,5000.0,"2005 Toyota Vios with a 1.6L engine. Driven for 76573 km, this fair condition car has had 1 owner(s), no accident history, and road tax is paid. Service history score: 0.42."
+Mercedes,C200,2014,230677,1.6,1,Yes,Paid,Excellent,0.82,11,20970.64,6.94,5000.0,"2014 Mercedes C200 with a 1.6L engine. Driven for 230677 km, this excellent condition car has had 1 owner(s), has accident history, and road tax is paid. Service history score: 0.82."
+Ford,Focus,2006,146131,1.8,3,Yes,Due,Poor,0.39,19,7691.11,12.32,5000.0,"2006 Ford Focus with a 1.8L engine. Driven for 146131 km, this poor condition car has had 3 owner(s), has accident history, and road tax is due. Service history score: 0.39."
+BMW,320i,2005,61975,2.0,1,No,Paid,Good,0.83,20,3098.75,32.27,7802.5,"2005 BMW 320i with a 2.0L engine. Driven for 61975 km, this good condition car has had 1 owner(s), no accident history, and road tax is paid. Service history score: 0.83."
+Honda,Civic,2008,47663,1.8,3,No,Due,Fair,0.24,17,2803.71,37.77,10633.7,"2008 Honda Civic with a 1.8L engine. Driven for 47663 km, this fair condition car has had 3 owner(s), no accident history, and road tax is due. Service history score: 0.24."
+Ford,Focus,2006,114704,1.3,1,Yes,Due,Good,0.93,19,6037.05,11.33,5000.0,"2006 Ford Focus with a 1.3L engine. Driven for 114704 km, this good condition car has had 1 owner(s), has accident history, and road tax is due. Service history score: 0.93."
+Honda,Civic,2016,223441,1.8,3,No,Paid,Excellent,0.79,9,24826.78,8.06,5000.0,"2016 Honda Civic with a 1.8L engine. Driven for 223441 km, this excellent condition car has had 3 owner(s), no accident history, and road tax is paid. Service history score: 0.79."
+Toyota,Camry,2005,24000,1.6,1,No,Due,Excellent,0.91,20,1200.0,66.67,12600.0,"2005 Toyota Camry with a 1.6L engine. Driven for 24000 km, this excellent condition car has had 1 owner(s), no accident history, and road tax is due. Service history score: 0.91."
+Honda,City,2015,123691,2.0,2,No,Due,Excellent,0.69,10,12369.1,16.17,12630.9,"2015 Honda City with a 2.0L engine. Driven for 123691 km, this excellent condition car has had 2 owner(s), no accident history, and road tax is due. Service history score: 0.69."
+Hyundai,Elantra,2005,89449,1.8,1,Yes,Due,Fair,0.3,20,4472.45,20.12,5000.0,"2005 Hyundai Elantra with a 1.8L engine. Driven for 89449 km, this fair condition car has had 1 owner(s), has accident history, and road tax is due. Service history score: 0.3."
+Kia,Cerato,2017,237099,1.6,1,No,Paid,Fair,0.25,8,29637.38,6.75,5000.0,"2017 Kia Cerato with a 1.6L engine. Driven for 237099 km, this fair condition car has had 1 owner(s), no accident history, and road tax is paid. Service history score: 0.25."
+Volkswagen,Polo,2006,117532,1.8,3,No,Paid,Poor,0.25,19,6185.89,15.31,5000.0,"2006 Volkswagen Polo with a 1.8L engine. Driven for 117532 km, this poor condition car has had 3 owner(s), no accident history, and road tax is paid. Service history score: 0.25."
+Nissan,Almera,2007,47350,1.5,2,No,Due,Fair,0.24,18,2630.56,31.68,8365.0,"2007 Nissan Almera with a 1.5L engine. Driven for 47350 km, this fair condition car has had 2 owner(s), no accident history, and road tax is due. Service history score: 0.24."
+Honda,Civic,2012,108668,1.3,2,No,Paid,Excellent,0.92,13,8359.08,11.96,8233.2,"2012 Honda Civic with a 1.3L engine. Driven for 108668 km, this excellent condition car has had 2 owner(s), no accident history, and road tax is paid. Service history score: 0.92."
+Mercedes,C200,2006,77458,2.0,3,No,Due,Excellent,0.64,19,4076.74,25.82,10054.2,"2006 Mercedes C200 with a 2.0L engine. Driven for 77458 km, this excellent condition car has had 3 owner(s), no accident history, and road tax is due. Service history score: 0.64."
+BMW,320i,2008,102745,2.0,1,Yes,Paid,Excellent,0.85,17,6043.82,19.47,7125.5,"2008 BMW 320i with a 2.0L engine. Driven for 102745 km, this excellent condition car has had 1 owner(s), has accident history, and road tax is paid. Service history score: 0.85."
+Volkswagen,Polo,2017,31338,1.3,1,Yes,Due,Poor,0.64,8,3917.25,41.48,11966.2,"2017 Volkswagen Polo with a 1.3L engine. Driven for 31338 km, this poor condition car has had 1 owner(s), has accident history, and road tax is due. Service history score: 0.64."
+Honda,Civic,2008,184568,2.0,2,Yes,Due,Good,0.9,17,10856.94,10.84,5000.0,"2008 Honda Civic with a 2.0L engine. Driven for 184568 km, this good condition car has had 2 owner(s), has accident history, and road tax is due. Service history score: 0.9."
+Perodua,Bezza,2008,64425,1.6,1,No,Paid,Fair,0.41,17,3789.71,24.84,7957.5,"2008 Perodua Bezza with a 1.6L engine. Driven for 64425 km, this fair condition car has had 1 owner(s), no accident history, and road tax is paid. Service history score: 0.41."
+BMW,320i,2007,134352,1.3,2,No,Due,Fair,0.57,18,7464.0,9.68,5000.0,"2007 BMW 320i with a 1.3L engine. Driven for 134352 km, this fair condition car has had 2 owner(s), no accident history, and road tax is due. Service history score: 0.57."
+Toyota,Camry,2008,57841,2.0,2,No,Paid,Excellent,0.63,17,3402.41,34.58,13615.9,"2008 Toyota Camry with a 2.0L engine. Driven for 57841 km, this excellent condition car has had 2 owner(s), no accident history, and road tax is paid. Service history score: 0.63."
+Perodua,Bezza,2009,64811,1.6,2,No,Due,Fair,0.41,16,4050.69,24.69,8718.9,"2009 Perodua Bezza with a 1.6L engine. Driven for 64811 km, this fair condition car has had 2 owner(s), no accident history, and road tax is due. Service history score: 0.41."
+Hyundai,Elantra,2017,194358,1.6,3,Yes,Due,Excellent,0.88,8,24294.75,8.23,5000.0,"2017 Hyundai Elantra with a 1.6L engine. Driven for 194358 km, this excellent condition car has had 3 owner(s), has accident history, and road tax is due. Service history score: 0.88."
+Nissan,Almera,2013,206141,2.0,1,No,Paid,Good,0.95,12,17178.42,9.7,5000.0,"2013 Nissan Almera with a 2.0L engine. Driven for 206141 km, this good condition car has had 1 owner(s), no accident history, and road tax is paid. Service history score: 0.95."
+Hyundai,Elantra,2020,151800,2.0,3,Yes,Paid,Fair,0.36,5,30360.0,13.18,8820.0,"2020 Hyundai Elantra with a 2.0L engine. Driven for 151800 km, this fair condition car has had 3 owner(s), has accident history, and road tax is paid. Service history score: 0.36."
+Nissan,Almera,2021,99459,1.3,3,Yes,Due,Poor,0.21,4,24864.75,13.07,8354.1,"2021 Nissan Almera with a 1.3L engine. Driven for 99459 km, this poor condition car has had 3 owner(s), has accident history, and road tax is due. Service history score: 0.21."
+Proton,Persona,2013,175538,1.6,2,No,Paid,Good,0.55,12,14628.17,9.11,5000.0,"2013 Proton Persona with a 1.6L engine. Driven for 175538 km, this good condition car has had 2 owner(s), no accident history, and road tax is paid. Service history score: 0.55."
+Perodua,Myvi,2011,79163,2.0,3,Yes,Paid,Poor,0.68,14,5654.5,25.26,5883.7,"2011 Perodua Myvi with a 2.0L engine. Driven for 79163 km, this poor condition car has had 3 owner(s), has accident history, and road tax is paid. Service history score: 0.68."
+Mercedes,C200,2019,159407,2.0,1,No,Paid,Excellent,0.72,6,26567.83,12.55,12259.3,"2019 Mercedes C200 with a 2.0L engine. Driven for 159407 km, this excellent condition car has had 1 owner(s), no accident history, and road tax is paid. Service history score: 0.72."
+Volkswagen,Polo,2007,122795,2.0,1,Yes,Due,Good,0.66,18,6821.94,16.29,5000.0,"2007 Volkswagen Polo with a 2.0L engine. Driven for 122795 km, this good condition car has had 1 owner(s), has accident history, and road tax is due. Service history score: 0.66."
+BMW,320i,2008,138324,1.8,2,Yes,Due,Poor,0.6,17,8136.71,13.01,5000.0,"2008 BMW 320i with a 1.8L engine. Driven for 138324 km, this poor condition car has had 2 owner(s), has accident history, and road tax is due. Service history score: 0.6."
+BMW,320i,2011,104076,2.0,2,Yes,Due,Good,0.97,14,7434.0,19.22,6392.4,"2011 BMW 320i with a 2.0L engine. Driven for 104076 km, this good condition car has had 2 owner(s), has accident history, and road tax is due. Service history score: 0.97."
+Kia,Cerato,2011,108461,1.6,1,No,Paid,Poor,0.47,14,7747.21,14.75,5000.0,"2011 Kia Cerato with a 1.6L engine. Driven for 108461 km, this poor condition car has had 1 owner(s), no accident history, and road tax is paid. Service history score: 0.47."
+Toyota,Vios,2009,174786,1.3,3,Yes,Due,Excellent,0.94,16,10924.12,7.44,5000.0,"2009 Toyota Vios with a 1.3L engine. Driven for 174786 km, this excellent condition car has had 3 owner(s), has accident history, and road tax is due. Service history score: 0.94."
+Nissan,Almera,2015,109930,1.3,2,Yes,Due,Fair,0.26,10,10993.0,11.83,5507.0,"2015 Nissan Almera with a 1.3L engine. Driven for 109930 km, this fair condition car has had 2 owner(s), has accident history, and road tax is due. Service history score: 0.26."
+Kia,Cerato,2016,199208,2.0,1,No,Paid,Excellent,0.88,9,22134.22,10.04,5879.2,"2016 Kia Cerato with a 2.0L engine. Driven for 199208 km, this excellent condition car has had 1 owner(s), no accident history, and road tax is paid. Service history score: 0.88."
+Mercedes,C200,2016,223664,1.8,1,No,Paid,Excellent,0.55,9,24851.56,8.05,5000.0,"2016 Mercedes C200 with a 1.8L engine. Driven for 223664 km, this excellent condition car has had 1 owner(s), no accident history, and road tax is paid. Service history score: 0.55."
+Volkswagen,Polo,2011,41677,1.3,2,No,Paid,Good,0.85,14,2976.93,31.19,11132.3,"2011 Volkswagen Polo with a 1.3L engine. Driven for 41677 km, this good condition car has had 2 owner(s), no accident history, and road tax is paid. Service history score: 0.85."
+Toyota,Vios,2014,213928,1.3,2,No,Paid,Excellent,0.91,11,19448.0,6.08,5000.0,"2014 Toyota Vios with a 1.3L engine. Driven for 213928 km, this excellent condition car has had 2 owner(s), no accident history, and road tax is paid. Service history score: 0.91."
+Nissan,Almera,2006,234532,1.8,3,Yes,Due,Poor,0.46,19,12343.79,7.67,5000.0,"2006 Nissan Almera with a 1.8L engine. Driven for 234532 km, this poor condition car has had 3 owner(s), has accident history, and road tax is due. Service history score: 0.46."
+Perodua,Myvi,2010,46962,1.3,2,No,Due,Good,0.79,15,3130.8,27.68,9803.8,"2010 Perodua Myvi with a 1.3L engine. Driven for 46962 km, this good condition car has had 2 owner(s), no accident history, and road tax is due. Service history score: 0.79."
+Toyota,Camry,2017,177504,1.5,3,Yes,Due,Excellent,0.94,8,22188.0,8.45,5000.0,"2017 Toyota Camry with a 1.5L engine. Driven for 177504 km, this excellent condition car has had 3 owner(s), has accident history, and road tax is due. Service history score: 0.94."
+Proton,Saga,2021,208926,1.3,2,No,Due,Excellent,0.95,4,52231.5,6.22,5407.4,"2021 Proton Saga with a 1.3L engine. Driven for 208926 km, this excellent condition car has had 2 owner(s), no accident history, and road tax is due. Service history score: 0.95."
+Honda,Civic,2017,111267,1.6,3,No,Paid,Poor,0.38,8,13908.38,14.38,7473.3,"2017 Honda Civic with a 1.6L engine. Driven for 111267 km, this poor condition car has had 3 owner(s), no accident history, and road tax is paid. Service history score: 0.38."
+Volkswagen,Polo,2016,46790,1.5,2,Yes,Paid,Excellent,0.71,9,5198.89,32.06,16621.0,"2016 Volkswagen Polo with a 1.5L engine. Driven for 46790 km, this excellent condition car has had 2 owner(s), has accident history, and road tax is paid. Service history score: 0.71."
+Volkswagen,Polo,2011,35485,2.0,2,Yes,Due,Poor,0.45,14,2534.64,56.36,10251.5,"2011 Volkswagen Polo with a 2.0L engine. Driven for 35485 km, this poor condition car has had 2 owner(s), has accident history, and road tax is due. Service history score: 0.45."
+Proton,Saga,2017,237841,1.8,3,No,Paid,Poor,0.43,8,29730.12,7.57,5000.0,"2017 Proton Saga with a 1.8L engine. Driven for 237841 km, this poor condition car has had 3 owner(s), no accident history, and road tax is paid. Service history score: 0.43."
+Nissan,Almera,2012,164188,1.3,1,Yes,Paid,Fair,0.61,13,12629.85,7.92,5000.0,"2012 Nissan Almera with a 1.3L engine. Driven for 164188 km, this fair condition car has had 1 owner(s), has accident history, and road tax is paid. Service history score: 0.61."
+Nissan,Almera,2011,72224,1.6,1,No,Due,Poor,0.54,14,5158.86,22.15,6577.6,"2011 Nissan Almera with a 1.6L engine. Driven for 72224 km, this poor condition car has had 1 owner(s), no accident history, and road tax is due. Service history score: 0.54."
+Nissan,Almera,2021,43960,1.5,3,No,Due,Fair,0.63,4,10990.0,34.12,19904.0,"2021 Nissan Almera with a 1.5L engine. Driven for 43960 km, this fair condition car has had 3 owner(s), no accident history, and road tax is due. Service history score: 0.63."
+Hyundai,Elantra,2010,134821,2.0,3,No,Paid,Poor,0.6,15,8988.07,14.83,5000.0,"2010 Hyundai Elantra with a 2.0L engine. Driven for 134821 km, this poor condition car has had 3 owner(s), no accident history, and road tax is paid. Service history score: 0.6."
+Kia,Cerato,2017,149695,1.3,2,No,Paid,Fair,0.48,8,18711.88,8.68,5130.5,"2017 Kia Cerato with a 1.3L engine. Driven for 149695 km, this fair condition car has had 2 owner(s), no accident history, and road tax is paid. Service history score: 0.48."
+BMW,320i,2019,148148,1.8,2,Yes,Due,Poor,0.22,6,24691.33,12.15,5000.0,"2019 BMW 320i with a 1.8L engine. Driven for 148148 km, this poor condition car has had 2 owner(s), has accident history, and road tax is due. Service history score: 0.22."
+Mazda,CX-5,2015,227611,1.8,2,Yes,Paid,Fair,0.24,10,22761.1,7.91,5000.0,"2015 Mazda CX-5 with a 1.8L engine. Driven for 227611 km, this fair condition car has had 2 owner(s), has accident history, and road tax is paid. Service history score: 0.24."
+Mercedes,C200,2007,181426,1.6,1,Yes,Due,Fair,0.68,18,10079.22,8.82,5000.0,"2007 Mercedes C200 with a 1.6L engine. Driven for 181426 km, this fair condition car has had 1 owner(s), has accident history, and road tax is due. Service history score: 0.68."
+Nissan,Almera,2022,91726,1.5,1,Yes,Paid,Excellent,0.81,3,30575.33,16.35,16927.4,"2022 Nissan Almera with a 1.5L engine. Driven for 91726 km, this excellent condition car has had 1 owner(s), has accident history, and road tax is paid. Service history score: 0.81."
+Toyota,Camry,2018,72638,2.0,3,Yes,Due,Good,1.0,7,10376.86,27.53,15136.2,"2018 Toyota Camry with a 2.0L engine. Driven for 72638 km, this good condition car has had 3 owner(s), has accident history, and road tax is due. Service history score: 1.0."
+Nissan,Almera,2007,170159,1.3,1,Yes,Paid,Fair,0.57,18,9453.28,7.64,5000.0,"2007 Nissan Almera with a 1.3L engine. Driven for 170159 km, this fair condition car has had 1 owner(s), has accident history, and road tax is paid. Service history score: 0.57."
+Honda,Civic,2015,98859,1.8,3,No,Paid,Poor,0.68,10,9885.9,18.21,8114.1,"2015 Honda Civic with a 1.8L engine. Driven for 98859 km, this poor condition car has had 3 owner(s), no accident history, and road tax is paid. Service history score: 0.68."
+BMW,320i,2020,41447,1.8,2,No,Paid,Fair,0.4,5,8289.4,43.43,20855.3,"2020 BMW 320i with a 1.8L engine. Driven for 41447 km, this fair condition car has had 2 owner(s), no accident history, and road tax is paid. Service history score: 0.4."
+Honda,Civic,2012,29337,2.0,1,Yes,Due,Excellent,0.59,13,2256.69,68.17,17666.3,"2012 Honda Civic with a 2.0L engine. Driven for 29337 km, this excellent condition car has had 1 owner(s), has accident history, and road tax is due. Service history score: 0.59."
+Perodua,Myvi,2012,104665,2.0,3,Yes,Due,Excellent,0.61,13,8051.15,19.11,10133.5,"2012 Perodua Myvi with a 2.0L engine. Driven for 104665 km, this excellent condition car has had 3 owner(s), has accident history, and road tax is due. Service history score: 0.61."
+Mazda,CX-5,2009,147016,1.3,2,No,Due,Poor,0.33,16,9188.5,8.84,5000.0,"2009 Mazda CX-5 with a 1.3L engine. Driven for 147016 km, this poor condition car has had 2 owner(s), no accident history, and road tax is due. Service history score: 0.33."
+Ford,Focus,2021,189160,1.6,3,Yes,Due,Excellent,0.65,4,47290.0,8.46,6884.0,"2021 Ford Focus with a 1.6L engine. Driven for 189160 km, this excellent condition car has had 3 owner(s), has accident history, and road tax is due. Service history score: 0.65."
+Perodua,Myvi,2017,186619,1.5,3,Yes,Paid,Good,0.64,8,23327.38,8.04,5000.0,"2017 Perodua Myvi with a 1.5L engine. Driven for 186619 km, this good condition car has had 3 owner(s), has accident history, and road tax is paid. Service history score: 0.64."
+Honda,Civic,2017,185421,1.8,2,Yes,Paid,Excellent,0.54,8,23177.62,9.71,5057.9,"2017 Honda Civic with a 1.8L engine. Driven for 185421 km, this excellent condition car has had 2 owner(s), has accident history, and road tax is paid. Service history score: 0.54."
+BMW,320i,2010,156785,2.0,2,No,Due,Poor,0.41,15,10452.33,12.76,5000.0,"2010 BMW 320i with a 2.0L engine. Driven for 156785 km, this poor condition car has had 2 owner(s), no accident history, and road tax is due. Service history score: 0.41."
+Toyota,Vios,2009,70990,1.3,1,No,Paid,Good,0.96,16,4436.88,18.31,6601.0,"2009 Toyota Vios with a 1.3L engine. Driven for 70990 km, this good condition car has had 1 owner(s), no accident history, and road tax is paid. Service history score: 0.96."
+Toyota,Camry,2014,235863,2.0,3,No,Paid,Excellent,0.94,11,21442.09,8.48,5000.0,"2014 Toyota Camry with a 2.0L engine. Driven for 235863 km, this excellent condition car has had 3 owner(s), no accident history, and road tax is paid. Service history score: 0.94."
